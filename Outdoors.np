@@ -1,0 +1,91 @@
+<HDREfexPro2_preset>
+	<filter name="ToneMappingFilter">
+		<parameter name="strength" value="0.75" valueType="float"/>
+		<parameter name="depthRadioButtons" value="1" valueType="int"/>
+		<parameter name="styleStrength" value="0.1" valueType="float"/>
+		<parameter name="detailRadioButtons" value="1" valueType="int"/>
+		<parameter name="dramaRadioButtons" value="2" valueType="int"/>
+		<parameter name="ec" value="0.45" valueType="float"/>
+		<parameter name="strengthModifierDark" value="0.55" valueType="float"/>
+		<parameter name="strengthModifierBright" value="0.41" valueType="float"/>
+		<parameter name="contrast" value="0.45" valueType="float"/>
+		<parameter name="blacks" value="0.65" valueType="float"/>
+		<parameter name="whites" value="0.5" valueType="float"/>
+		<parameter name="structureStrength" value="0.5" valueType="float"/>
+		<parameter name="saturation" value="0.5" valueType="float"/>
+		<parameter name="temperature" value="0.5" valueType="float"/>
+		<parameter name="tint" value="0.5" valueType="float"/>
+		<parameter name="vignettePreset" value="8" valueType="int"/>
+		<parameter name="vignettePreset_intern" value="8" valueType="int"/>
+		<parameter name="vigStrength" value="0" valueType="float"/>
+		<parameter name="vigShape" value="4.25" valueType="float"/>
+		<parameter name="vigSize" value="70" valueType="float"/>
+		<parameter name="vignetteCenterX" value="0.5" valueType="float"/>
+		<parameter name="vignetteCenterY" value="0.5" valueType="float"/>
+		<parameter name="lacPreset" value="0" valueType="int"/>
+		<parameter name="lacPreset_intern" value="0" valueType="int"/>
+		<parameter name="lacdataRGB" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="0.811111"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0.222222"/&gt;
+	&lt;key name="intNodeCount" value="2"/&gt;
+	&lt;key name="intNodeX0" value="0.6691"/&gt;
+	&lt;key name="intNodeY0" value="0.877778"/&gt;
+	&lt;key name="intNodeX1" value="0.0898734"/&gt;
+	&lt;key name="intNodeY1" value="0.0888889"/&gt;
+&lt;/Lac_serialization&gt;
+' valueType="int"/>
+		<parameter name="lacdataSmartBrightness" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="1"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0"/&gt;
+	&lt;key name="intNodeCount" value="0"/&gt;
+&lt;/Lac_serialization&gt;
+' valueType="int"/>
+		<parameter name="lacdataR" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="1"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0"/&gt;
+	&lt;key name="intNodeCount" value="0"/&gt;
+&lt;/Lac_serialization&gt;
+' valueType="int"/>
+		<parameter name="lacdataG" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="1"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0"/&gt;
+	&lt;key name="intNodeCount" value="0"/&gt;
+&lt;/Lac_serialization&gt;
+' valueType="int"/>
+		<parameter name="lacdataB" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="1"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0"/&gt;
+	&lt;key name="intNodeCount" value="0"/&gt;
+&lt;/Lac_serialization&gt;
+' valueType="int"/>
+		<parameter name="gndAlpha0" value="0.5" valueType="float"/>
+		<parameter name="gndAlpha1" value="0.5" valueType="float"/>
+		<parameter name="gndBlend" value="0.5" valueType="float"/>
+		<parameter name="gndVerticalShift" value="0.5" valueType="float"/>
+		<parameter name="gndRotation" value="0.5" valueType="float"/>
+		<parameter name="finishingFilterState" value="true" valueType="bool"/>
+	</filter>
+	<group name="general">
+		<key name="name" type="string" value="Outdoors"/>
+		<key name="uid" type="string" value="2017-07-31T00:40:36949380261"/>
+		<key name="tags" type="string_array">
+			<string value="Custom"/>
+		</key>
+	</group>
+</HDREfexPro2_preset>
+
